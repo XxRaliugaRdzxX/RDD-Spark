@@ -1,0 +1,11 @@
+Resumen del análisis
+--------------------
+Alumnos distintos:                 19
+Registros de notas (sin duplicar): 56
+Líneas inválidas descartadas:      0
+Duplicados corregidos:             Rocio en física (5 y 7 -> 6)
+Aprueban todas sus asignaturas:    4
+Mejor media:                       Isabel y Rosa (7.67)
+Media más baja:                    Triana (3.33)
+Asignatura con más suspensos:      fisica (8)
+No se presentó a inglés:           Pedro
